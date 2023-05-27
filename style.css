@@ -1,0 +1,62 @@
+body{ 
+    font-family: sans-serif;
+    background-image: url(../رساله/img/img.jpg);
+    background-size: cover;
+}
+.login{
+    background-color: #ffffff02;
+    width: 373px;
+    margin: 0 auto;
+    padding: 35px 30px;
+
+}
+.heading{text-align: center;
+
+}
+.heading h1 {
+    font-family: sans-serif;
+    color: #ffffff;
+}
+.heading p {
+    color: #ffffff;
+}
+.from-inputs{
+    text-align: center;
+    border-bottom: 2px dotted #ffffff;
+}
+.from-inputs input{
+    background-color: #e9edf0;
+    border: 0;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+} 
+.from-inputs button {
+    padding: 5px 30px;
+    background-color: #15b8b89f;
+    border: 0;
+}
+.from-inputs p{
+    color: #cdcdcd;
+}
+.from-inputs p a{
+    color: #929292;
+    text-decoration: none;
+}
+.footer{
+    text-align: center;
+}
+.footer p{
+    color: #cdcdcd;
+}
+.footer img {
+    width: 59px;
+    margin:10px 20px;
+}
+.footer .register {
+    color: #cdcdcd;
+}
+.footer .register a {
+    color: #929292;
+    text-decoration: none;
+}
